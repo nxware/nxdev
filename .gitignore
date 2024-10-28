@@ -1,0 +1,5 @@
+/esp32/firmware.bin
+/esp32/bootloader.bin
+/esp32/partitions.bin
+**/.openvscode-server/**
+**/.cache/**
